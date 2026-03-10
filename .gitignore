@@ -38,7 +38,7 @@
 # !docs/**/*.md
 !.github/**/*.md
 *.pyc
-.env
+# .env
 
 # GCP service-account key (sensitive — never commit)
 gcp-service-account.json
